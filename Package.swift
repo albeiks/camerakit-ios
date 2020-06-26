@@ -12,6 +12,6 @@ let package = Package(
     ],
     dependencies: [],
     targets: [
-        .target(name: "CameraKit", dependencies: [])
+        .target(name: "CameraKit", path: "Sources")
     ]
 )
