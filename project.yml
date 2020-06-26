@@ -1,0 +1,8 @@
+name: CameraKit
+
+targets:
+  CameraKit:
+    type: framework
+    platform: iOS
+    deploymentTarget: 10.0
+    sources: [Sources]
